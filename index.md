@@ -6,6 +6,12 @@
 
 이화여자대학교 조형예술대학 조소과
 
+### 기타 소개
+
+요즘은 개인적으로 작은 피규어나 모형을 만들고 있습니다!
+
+
+
 ```markdown
 Syntax highlighted code block
 
