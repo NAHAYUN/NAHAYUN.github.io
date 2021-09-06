@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 나하윤 소개서
 
-You can use the [editor on GitHub](https://github.com/NAHAYUN/NAHAYUN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+여러분 안녕하세요. 반갑습니다 :) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교 조형예술대학 조소과
 
 ```markdown
 Syntax highlighted code block
